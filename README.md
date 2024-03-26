@@ -9,7 +9,7 @@ Bus Adventure is an interactive web application that visualizes a bus route betw
 
 ## How to Run
 
-To embark on your Bus Adventure, simply open the `map_exercise.html` file in your web browser. Click on the "Show stops between MIT and Harvard" button to start the journey! 🚌💨
+To embark on your Bus Adventure, simply open the `index.html` file in your web browser. Click on the "Show stops between MIT and Harvard" button to start the journey! 🚌💨
 
 ## Features
 
