@@ -1,0 +1,42 @@
+ body {
+      margin: 0;
+      padding: 0;
+    }
+
+    #map {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 100%;
+    }
+
+    .map-overlay {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      padding: 10px;
+      background-color: rgba(255, 255, 255, 0.8);
+      border-radius: 5px;
+      font-size: 1.5em;
+      z-index: 1;
+    }
+
+    .map-overlay button {
+      font-size: 1em;
+    }
+
+    .cafe-marker {
+      background-image: url('https://img.icons8.com/color/48/000000/cafe.png');
+      background-size: cover;
+      width: 30px;
+      height: 30px;
+      cursor: pointer;
+    }
+
+    .bus-icon {
+      background-image: url('https://simplisticallycomplicated.biz/mit/homework/bus_sm.png'); 
+      background-size: cover;
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+    }
