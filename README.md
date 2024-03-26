@@ -1,8 +1,4 @@
 
-Sure! Here's a fun README for your BusAssignment project:
-
-vbnet
-Copy code
 # 🚌 Bus Adventure: Mapping the Route to Fun! 🗺️
 
 Welcome to Bus Adventure, where we turn a simple bus route into an exciting journey through the city streets! 🎉
